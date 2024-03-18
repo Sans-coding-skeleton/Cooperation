@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("Standajekokot");
+        System.out.println("Zkouska na commit");
     }
 }
